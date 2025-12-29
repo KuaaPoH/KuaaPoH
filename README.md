@@ -39,5 +39,3 @@
 <img src="https://github.com/KuaaPoH/KuaaPoH/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
-![Snake animation](https://github.com/KuaaPoh/KuaaPoh/blob/output/github-contribution-grid-snake-dark.svg)
