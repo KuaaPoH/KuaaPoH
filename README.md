@@ -28,10 +28,10 @@ Self-taught & avid programmer 💻 | Focusing on Automation and Backend 🤖 | P
 <!-- Layout 2 cột: Metrics bên trái, Rắn bên phải -->
 <table align="center">
   <tr>
-    <td align="center" width="60%">
-      <img src="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/metrics/github-metrics.svg?v=2" alt="Metrics" width="100%" />
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/metrics/github-metrics.svg?v=3" alt="Metrics" />
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/output/github-contribution-grid-snake.svg">

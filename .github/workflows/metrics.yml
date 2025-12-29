@@ -22,10 +22,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
           
-          # Tùy chọn QUAN TRỌNG để giống lowlighter (Hiển thị rộng, 2 cột)
-          config_display: large
-          
-          # Output
+          # Output options
           filename: github-metrics.svg
           committer_branch: metrics
           committer_message: "chore: update metrics"
