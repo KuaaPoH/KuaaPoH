@@ -27,4 +27,14 @@ Self-taught & avid programmer 💻 | Focusing on Automation and Backend 🤖 | P
 
 <img src="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/metrics/github-metrics.svg?v=1" alt="Metrics" />
 
+<br/>
+
+<!-- Anime Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&animation=fadeIn" width="100%" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxVf4Y9V7UY/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/l41lTfO7S08JzW9S8/giphy.gif" width="150" />
+</p>
+
 </div>
