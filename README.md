@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN4bHJqdnJ2OG43NmV2c2t3MjhyNTFxN3VxcTFndzY0MHQ5cmh2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="150" />
+<img src="https://media1.tenor.com/m/KWA2wN522aMAAAAC/anime-girl.gif" width="200" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Kenn!+%F0%9F%91%8B;I'm+a+Self-taught+Developer;Automation+%26+Backend+Enthusiast" alt="Typing SVG" /></a>
 
