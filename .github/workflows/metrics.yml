@@ -17,27 +17,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: KuaaPoH
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
           
-          # Output to a separate branch
+          # Output
           filename: github-metrics.svg
           committer_branch: metrics
           committer_message: "chore: update metrics"
 
-          # Plugins
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          
+          # Plugins (Chỉ giữ lại cái cơ bản nhất)
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css
-          plugin_languages_limit: 8
-          
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_languages_ignored: html, css
