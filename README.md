@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhoNjM0aHdlMWM4amh4eGJyMzN4dWs0aGY1OHN0ZXZibG9ndmt6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWAcpJsFT9mvrv0e7a/giphy.gif" width="200" />
+<img src="https://media1.tenor.com/m/KWA2wN522aMAAAAC/anime-girl.gif" width="200" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Kenn!+%F0%9F%91%8B;I'm+a+Self-taught+Developer;Automation+%26+Backend+Enthusiast" alt="Typing SVG" /></a>
 
@@ -23,27 +23,23 @@ Self-taught & avid programmer 💻 | Focusing on Automation and Backend 🤖 | P
 <h3>🛠 Tech Stack</h3>
 <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,html,css,git" />
 
-<br/>
+<br/><br/>
 
-<!-- Layout 2 cột: Metrics bên trái, Rắn bên phải -->
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/metrics/github-metrics.svg?v=3" alt="Metrics" />
-    </td>
-    <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/output/github-contribution-grid-snake.svg" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<!-- Metrics -->
+<img src="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/metrics/github-metrics.svg?v=4" alt="Metrics" />
 
 <br/>
 
-<!-- Footer Image -->
-<img src="cry.jpg" width="400" alt="Cry" />
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
+</div>
+
+<!-- Footer Image (Căn phải) -->
+<div align="right">
+  <img src="cry.jpg" width="200" alt="Cry" />
 </div>
