@@ -25,6 +25,6 @@ Self-taught & avid programmer 💻 | Focusing on Automation and Backend 🤖 | P
 
 <br/>
 
-<img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/metrics/github-metrics.svg" alt="Metrics" />
 
 </div>
