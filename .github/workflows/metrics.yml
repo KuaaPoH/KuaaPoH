@@ -16,47 +16,58 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Options
+          # Options cơ bản
           user: KuaaPoH
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
           
-          # Output options
+          # Tùy chọn QUAN TRỌNG để giống lowlighter (Hiển thị rộng, 2 cột)
+          config_display: large
+          
+          # Output
           filename: github-metrics.svg
           committer_branch: metrics
           committer_message: "chore: update metrics"
 
           # -----------------------------------------------------------
-          #  Cấu hình nâng cao - Style Lowlighter
+          #  PLUGINS (Full Options)
           # -----------------------------------------------------------
           
-          # 1. Lịch 3D (Isometric Calendar)
+          # 1. Lịch 3D
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # 2. Ngôn ngữ (Languages) - Chi tiết hơn
+          # 2. Ngôn ngữ (Chi tiết)
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: lines, percentage
           plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: no # Giữ no để an toàn, tránh lỗi 404
+          plugin_languages_indepth: no
 
-          # 3. Thói quen code (Habits) - Giờ giấc & Ngày
+          # 3. Thói quen (Habits)
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          # 4. Thành tựu (Achievements) - Các huy hiệu
+          # 4. Thành tựu (Achievements)
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
 
-          # 5. Dòng code (Lines) - Lịch sử thêm/xóa code
+          # 5. Dòng code (Lines)
           plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+
+          # 6. Sao & Đánh giá (Stargazers & Reactions) - Mới thêm
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: classic
+          
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
+          
+          # 7. Repo nổi bật (Notable) - Mới thêm
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
