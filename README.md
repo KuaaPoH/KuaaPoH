@@ -25,16 +25,25 @@ Self-taught & avid programmer 💻 | Focusing on Automation and Backend 🤖 | P
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/metrics/github-metrics.svg?v=1" alt="Metrics" />
+<!-- Layout 2 cột: Metrics bên trái, Rắn bên phải -->
+<table align="center">
+  <tr>
+    <td align="center" width="60%">
+      <img src="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/metrics/github-metrics.svg?v=2" alt="Metrics" width="100%" />
+    </td>
+    <td align="center" width="40%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KuaaPoH/KuaaPoH/output/github-contribution-grid-snake.svg" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Anime Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&animation=fadeIn" width="100%" />
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxVf4Y9V7UY/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/l41lTfO7S08JzW9S8/giphy.gif" width="150" />
-</p>
+<!-- Footer Image -->
+<img src="cry.jpg" width="400" alt="Cry" />
 
 </div>

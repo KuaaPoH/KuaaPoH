@@ -59,15 +59,6 @@ jobs:
           # 5. Dòng code (Lines)
           plugin_lines: yes
 
-          # 6. Sao & Đánh giá (Stargazers & Reactions) - Mới thêm
+          # 6. Sao (Stargazers)
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
-          
-          plugin_reactions: yes
-          plugin_reactions_limit: 100
-          plugin_reactions_details: percentage
-          
-          # 7. Repo nổi bật (Notable) - Mới thêm
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
